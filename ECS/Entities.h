@@ -2,7 +2,7 @@
 
 #include <functional>
 #include <iostream>
-#include "ComponentID.h"
+#include "ComponentInfo.h"
 
 class Entities
 {
